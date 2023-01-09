@@ -1,2 +1,2 @@
-# 3D_Billiard-THREE-JS
+# 3D_Billiard_THREE JS
 a small three js project
